@@ -1,4 +1,4 @@
-##BASIC PYTHON WEB SCRAPER
+#BASIC PYTHON WEB SCRAPER
 
 Compiles a list of headphones available on NewEgg.com, and creates CSV
 file including the title and price for each listing.
